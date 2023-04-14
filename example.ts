@@ -31,7 +31,7 @@
 
     },
 
-    isDevnetLive: falsefalfalseffalsefalfalsfalse,
+    isDevnetLive: true,
 
     isTestnetLive: true,
 
